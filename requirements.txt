@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+mnist
+numpy
+pandas
+python-mnist
+requests
+seaborn
+sklearn
