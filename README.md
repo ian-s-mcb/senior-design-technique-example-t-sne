@@ -1,1 +1,1 @@
-# t-sne-example
+# senior-design-technique-example-t-sne
